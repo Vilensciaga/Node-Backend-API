@@ -1,0 +1,24 @@
+{
+  "name": "assignment2",
+  "version": "1.0.0",
+  "description": "Assignment 2 Solution",
+  "main": "./dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose C Gomez (N00164405)",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^3.0.0",
+    "@types/body-parser": "^1.19.0",
+    "@types/express": "^4.17.11",
+    "@types/jsonwebtoken": "^8.5.1"
+  }
+}
